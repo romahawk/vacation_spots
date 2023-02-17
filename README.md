@@ -1,5 +1,5 @@
 # vacation_spots
-<b>Codecademy Front-end Career Path | The Box Model module
+<b>Codecademy Front-end Career Path | Selectors and Visual Rules module
   <br>Vacation Spots project https://romahawk.github.io/vacation_spots/
 </b>
 
